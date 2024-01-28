@@ -12,7 +12,7 @@
   , I'm Prachi
 </h1>
 <h3>
-  A Passionate Techy Guy 👨‍💻, Frontend Web Developer and a Competitive Coder (Specialist).
+  A Passionate Techy Girl 👨‍💻, Frontend Web Developer and a Competitive Coder (Specialist).
 </h3>
 <div >
   <h5>🔭 I’m currently working on Competitive Programming </h5>
