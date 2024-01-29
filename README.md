@@ -1,12 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align/>
   </a>
 </div>
-<h1>
+<h1 align="center">
   Hey 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   , I'm Prachi
@@ -14,16 +14,12 @@
 <h3>
   A Passionate Techy Girl 👨‍💻, Frontend Web Developer and a Competitive Coder (Specialist).
 </h3>
-<div >
-  <h5>🔭 I’m currently working on Competitive Programming </h5>
-  <h5>🌱 I’m currently learning Data Structures and Algorithms</h5>
-  <h5>📫 How to reach me <a href="prachi61975@gmail.com">prachi61975@gmail.com</a> </h5>
-  <h5>💬 Ask me about HTML,CSS,Javascript,React JS.,Tailwind CSS</h5>
-  
-<div align="right">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" />
-</div>
-  </div>
+<ul >
+  <li>🔭 I’m currently working on Competitive Programming </li>
+  <li>🌱 I’m currently learning Data Structures and Algorithms</li>
+  <li>📫 How to reach me <a href="prachi61975@gmail.com">prachi61975@gmail.com</a> </li>
+  <li>💬 Ask me about HTML,CSS,Javascript,React JS.,Tailwind CSS</li>
+</ul>
   
 
   <div>
